@@ -1,0 +1,21 @@
+<html lang="en">
+
+<head>
+    <title>Guess the Number!</title>
+    <h1 style="color: {{ colors[guess] }} ;">{{ message }}</h1>
+</head>
+
+<body style="background-color: rgb(202, 212, 185)">
+    <blockquote class="imgur-embed-pub" lang="en" data-id="{{ Gif }}" data-context="false"><a href="{ URL }"></a>
+    </blockquote>
+    <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+    <form method="post" action="/guess">
+        <input type="number" id="guess" name="guess" placeholder="Enter another guess:"
+            style="margin-left: 30; margin-bottom: 20; margin-top: 20; text-align: center; align-self: center;"><br>
+        <button type="submit" class="centered"
+            style="color:rgb(91, 16, 91); width: 100; text-align: center; margin-left: 70;">Submit</button>
+        <p class="centered"><b>Beware!</b> You have only {{ turnsLeft }} guesses left! 😨</p>
+    </form>
+</body>
+
+</html>
