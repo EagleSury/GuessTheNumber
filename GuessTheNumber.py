@@ -7,7 +7,7 @@ def initializeGifs(fileName):
     gifs = {}
     with open(fileName, "r") as file:
         for line in file:
-            section, path = line.strip().split("*")
+            section, path = line.strip().split("*")  # Better to use csv and csv reader as we learnt in the course
             gifs.setdefault(section, []).append(path)
     return gifs
 
