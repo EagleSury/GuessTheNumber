@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 High*Rs1l2kT
 High*RFSioa0
 High*dPBFB1v
@@ -28,3 +29,35 @@ Lost*0RIRL1k
 Lost*MAqehnw
 Lost*V7QT5fF
 stWentWrong*1zP6czZ
+=======
+High*Rs1l2kT
+High*RFSioa0
+High*dPBFB1v
+High*UlDkun6
+High*xMLlazw
+Low*XHfbmMH
+Low*AGE38d1
+Low*hQgk52F
+Low*7PG7CDy
+Low*loVdmnJ
+Won*XQ4v8aU
+Won*nMRSsZw
+Won*fA8ksen
+Won*8W9MVlf
+Won*jjKETZb
+Won*DbpiFrj
+Won*9vQaGPz
+Won*FwNSnO3
+Won*Kj4Nncy
+Lost*9IGAICd
+Lost*a/myJTOje
+Lost*7k1ePD0
+Lost*U3Gy95q
+Lost*s2yB5D7
+Lost*iBLEBpW
+Lost*XQ9Al4U
+Lost*0RIRL1k
+Lost*MAqehnw
+Lost*V7QT5fF
+stWentWrong*1zP6czZ
+>>>>>>> 7b0b6a91db4cd9f0381915878613d9698be8e7c1
